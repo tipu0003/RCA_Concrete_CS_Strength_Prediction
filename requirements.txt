@@ -6,3 +6,5 @@ scikit-learn
 joblib
 cloudpickle
 openpyxl
+Path
+xgboost
