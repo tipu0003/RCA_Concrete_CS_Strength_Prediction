@@ -13,7 +13,7 @@ def _fixed_ctor(bit_generator_name):
 _np_pickle.__bit_generator_ctor = _fixed_ctor
 # ─────────────────────────────────────────────────────────────
 
-# import joblib
+import joblib
 import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
